@@ -8,9 +8,9 @@
 ## number of longest increasing subsequence
 Problem Link: https://leetcode.com/problems/number-of-longest-increasing-subsequence
 
-<a href="/level-3/leetcode/interviews-questions-1/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-3/leetcode/interviews-questions-1/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -36,9 +36,10 @@ class Solution:
 ```
 
 </details>
-<a href="/level-3/leetcode/interviews-questions-1/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<br>
+<a href="/level-3/leetcode/interviews-questions-1/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -69,13 +70,14 @@ public:
 ```
 
 </details>
+<br>
 
 ## maximum subarray
 Problem Link: https://leetcode.com/problems/maximum-subarray
 
-<a href="/level-3/leetcode/interviews-questions-1/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/python.png"></img></a>
+<a href="/level-3/leetcode/interviews-questions-1/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
 <details>
-    <summary><h5>Python Solution</h5></summary>
+    <summary>Python Solution</summary>
 
 ```python
 class Solution:
@@ -90,9 +92,10 @@ class Solution:
 ```
 
 </details>
-<a href="/level-3/leetcode/interviews-questions-1/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cpp.png"></img></a>
+<br>
+<a href="/level-3/leetcode/interviews-questions-1/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
 <details>
-    <summary><h5>CPP Solution</h5></summary>
+    <summary>CPP Solution</summary>
 
 ```cpp
 class Solution {
@@ -111,4 +114,5 @@ public:
 ```
 
 </details>
+<br>
 
