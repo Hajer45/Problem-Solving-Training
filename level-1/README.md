@@ -91,7 +91,7 @@ The AtCoder OJ phases:
 [[phase-1-2](/level-1/atcoder/phase-1-2)],
 [[phase-1-3](/level-1/atcoder/phase-1-3)],
 [[phase-1-4](/level-1/atcoder/phase-1-4)],
-These phases contain beginner contests (A, B problems) (easy contests) and each phase contains ~135 problems.
+These phases contain beginner contests (easy contests) and each phase contains ~135 problems.
 
 <table>
     <thead>
