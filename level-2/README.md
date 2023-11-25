@@ -22,7 +22,7 @@ Problem Solving Training for computer science students.
 
 ## `Level 2`
 
-This level simply consists of 24 phases, 2 phases on HackerRank Online Judge, 6 phases on Codeforces Online Judge, 6 phases on LeetCode Online Judge, 6 phases on AtCoder Online Judge, 4 phases on HackerEarth Online Judge.
+This level simply consists of 20 phases, 2 phases on HackerRank Online Judge, 6 phases on Codeforces Online Judge, 6 phases on LeetCode Online Judge, 2 phases on AtCoder Online Judge, 4 phases on HackerEarth Online Judge.
 
 ## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/master/Data-Structures-and-Algorithms/README.md)
 The prerequisites for level 2 of this training are the basic knowledge for Data Structures and Algorithms Analysis like ***(Linear Data Structures - Non-Linear Data Structures - Searching Algorithms - Sorting Algorithms - Divide and Conquer)***.
@@ -210,59 +210,14 @@ These phases contain (Array - LinkedList - Stack - Queue - Binary Tree - Heap Tr
 The AtCoder OJ phases:
 [[phase-2-1](/level-2/atcoder/phase-2-1)],
 [[phase-2-2](/level-2/atcoder/phase-2-2)],
-[[phase-2-3](/level-2/atcoder/phase-2-3)],
-[[phase-2-4](/level-2/atcoder/phase-2-4)],
-These phases contain beginner contests (C, D problems) (easy contests) and each phase contains ~135 problems.
-[[phase-2-5](/level-2/atcoder/phase-2-5)],
-[[phase-2-6](/level-2/atcoder/phase-2-6)],
-These phases contain regular contests (A, B problems) (medium contests) and each phase contains ~100 problems.
+These phases contain regular contests (medium contests) and each phase contains ~100 problems.
 
 <table>
     <thead>
         <tr>
 <th align="center" width="400px"><a href="/level-2/atcoder/phase-2-1">phase-2-1</a></th>
-<th align="center" width="150px">135 problems</th>
-<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-2">phase-2-2</a></th>
-<th align="center" width="150px">135 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>2016-2017 Beginner Contests</td><td align="center">20 problems</td>
-            <td>2016-2017 Beginner Contests</td><td align="center">20 problems</td></tr>
-        <tr><td>2018-2019 Beginner Contests</td><td align="center">30 problems</td>
-            <td>2018-2019 Beginner Contests</td><td align="center">30 problems</td></tr>
-        <tr><td>2020-2021 Beginner Contests</td><td align="center">35 problems</td>
-            <td>2020-2021 Beginner Contests</td><td align="center">35 problems</td></tr>
-        <tr><td>2022 Beginner Contests     </td><td align="center">25 problems</td>
-            <td>2022 Beginner Contests     </td><td align="center">25 problems</td></tr>
-        <tr><td>2023 Beginner Contests     </td><td align="center">25 problems</td>
-            <td>2023 Beginner Contests     </td><td align="center">25 problems</td></tr>
-    </tbody>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-3">phase-2-3</a></th>
-<th align="center" width="150px">135 problems</th>
-<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-4">phase-2-4</a></th>
-<th align="center" width="150px">135 problems</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr><td>2016-2017 Beginner Contests</td><td align="center">20 problems</td>
-            <td>2016-2017 Beginner Contests</td><td align="center">20 problems</td></tr>
-        <tr><td>2018-2019 Beginner Contests</td><td align="center">30 problems</td>
-            <td>2018-2019 Beginner Contests</td><td align="center">30 problems</td></tr>
-        <tr><td>2020-2021 Beginner Contests</td><td align="center">35 problems</td>
-            <td>2020-2021 Beginner Contests</td><td align="center">35 problems</td></tr>
-        <tr><td>2022 Beginner Contests     </td><td align="center">25 problems</td>
-            <td>2022 Beginner Contests     </td><td align="center">25 problems</td></tr>
-        <tr><td>2023 Beginner Contests     </td><td align="center">25 problems</td>
-            <td>2023 Beginner Contests     </td><td align="center">25 problems</td></tr>
-    </tbody>
-    <thead>
-        <tr>
-<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-5">phase-2-5</a></th>
 <th align="center" width="150px">105 problems</th>
-<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-6">phase-2-6</a></th>
+<th align="center" width="400px"><a href="/level-2/atcoder/phase-2-2">phase-2-2</a></th>
 <th align="center" width="150px">105 problems</th>
         </tr>
     </thead>
