@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/hackerearth.png"></img>
+<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
 
-## [HackerEarth](https://hackerearth.com/) OJ - Advanced Data Structure 1 `120 problems` `80 hrs`
+## HackerEarth OJ - Advanced Data Structure 1 `120 problems` `80 hrs`
 
 ### Table of Content
 

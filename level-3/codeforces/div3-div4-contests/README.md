@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/codeforces.png"></img>
+<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
 
-## [Codeforces](https://codeforces.com/) OJ - Div3 + Div4 Contests `110 contests` `240 hrs`
+## Codeforces OJ - Div3 + Div4 Contests `110 contests` `240 hrs`
 
 ### Table of Content
 
@@ -229,7 +229,6 @@
         </tr>
     </tbody>
 </table>
-
 
 ### Codeforces -  Div4 Contests `10 contests`
 

@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/hackerrank.png"></img>
+<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 
-# [HackerRank](https://hackerrank.com/) OJ - Mathematical Algorithms 1 <br> `120 problems` `80 hrs`
+# HackerRank OJ - Mathematical Algorithms 1 <br> `120 problems` `80 hrs`
 
 ## Table of Content
 

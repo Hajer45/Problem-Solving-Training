@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/atcoder.png"></img>
+<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
 
-## [AtCoder](https://atcoder.jp/) OJ - Phase 3.2 `65 contests` `80 hrs`
+## AtCoder OJ - Phase 3.2 `65 contests` `80 hrs`
 
 ### Table of Content
 

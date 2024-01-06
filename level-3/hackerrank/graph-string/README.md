@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/hackerrank.png"></img>
+<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 
-# [HackerRank](https://hackerrank.com/) OJ - Graph and String Algorithms <br> `130 problems` `80 hrs`
+# HackerRank OJ - Graph and String Algorithms <br> `130 problems` `80 hrs`
 
 ## Table of Content
 

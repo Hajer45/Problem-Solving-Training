@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/hackerearth.png"></img>
+<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
 
-## [HackerEarth](https://hackerearth.com/) OJ - Dynamic Programming 1 `110 problems` `80 hrs`
+## HackerEarth OJ - Dynamic Programming 1 `110 problems` `80 hrs`
 
 ### Table of Content
 
