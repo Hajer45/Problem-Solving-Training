@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/hackerrank.png"></img>
+<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 
-# [HackerRank](https://hackerrank.com/) OJ - Linux Shell <br> `65 problems` `40 hrs`
+# HackerRank OJ - Linux Shell <br> `65 problems` `40 hrs`
 
 ## Table of Content
 

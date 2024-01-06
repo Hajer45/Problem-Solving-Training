@@ -1,11 +1,11 @@
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
+<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 
 # HackerRank OJ - Python Programming Language <br> Functions Libraries II `20 problems`
 
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -19,7 +19,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -33,7 +33,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -47,7 +47,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -61,7 +61,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -75,7 +75,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -89,7 +89,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -103,7 +103,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -117,7 +117,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -131,7 +131,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -145,7 +145,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -159,7 +159,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -173,7 +173,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -187,7 +187,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -201,7 +201,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -215,7 +215,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -229,7 +229,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -243,7 +243,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -257,7 +257,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -271,7 +271,7 @@ Problem Link: ProblemLink
 ## ProblemName
 Problem Link: ProblemLink
 
-<a href="/level-1/hackerrank/python/solutions/functions-libraries-II.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 

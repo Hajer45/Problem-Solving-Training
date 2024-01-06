@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/atcoder.png"></img>
+<picture><img align="right" width="80" src="/logos/atcoder.png"></img></picture>
 
-## [AtCoder](https://atcoder.jp/) OJ - Phase 1.4 `135 problems` `80 hrs`
+## AtCoder OJ - Phase 1.4 `135 problems` `80 hrs`
 
 ### Table of Content
 
@@ -268,7 +268,6 @@
         </tr>
     </tbody>
 </table>
-
 
 ### AtCoder - 2023 Beginner Contests `25 problems`
 

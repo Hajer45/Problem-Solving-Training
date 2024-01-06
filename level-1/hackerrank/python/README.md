@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/hackerrank.png"></img>
+<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 
-# [HackerRank](https://hackerrank.com/) OJ - Python Programming Language <br> `100 problems` `40 hrs`
+# HackerRank OJ - Python Programming Language <br> `100 problems` `40 hrs`
 
 ## Table of Content
 
@@ -221,7 +221,6 @@
         </tr>
     </tbody>
 </table>
-
 
 ## HackerRank - Classes `10 problems` [`Solutions`](/level-1/hackerrank/python/solutions/classes.md)
 
