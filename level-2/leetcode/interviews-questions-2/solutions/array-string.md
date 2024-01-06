@@ -1,11 +1,11 @@
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 
 # LeetCode OJ - Interviews Questions 2 <br> Array and String `20 problems`
 
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -15,7 +15,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -29,7 +29,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -39,7 +39,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -53,7 +53,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -63,7 +63,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -77,7 +77,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -87,7 +87,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -101,7 +101,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -111,7 +111,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -125,7 +125,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -135,7 +135,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -149,7 +149,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -159,7 +159,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -173,7 +173,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -183,7 +183,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -197,7 +197,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -207,7 +207,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -221,7 +221,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -231,7 +231,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -245,7 +245,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -255,7 +255,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -269,7 +269,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -279,7 +279,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -293,7 +293,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -303,7 +303,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -317,7 +317,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -327,7 +327,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -341,7 +341,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -351,7 +351,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -365,7 +365,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -375,7 +375,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -389,7 +389,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -399,7 +399,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -413,7 +413,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -423,7 +423,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -437,7 +437,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -447,7 +447,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -461,7 +461,7 @@ Problem Link:
 ## ProblemName
 Problem Link:
 
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -471,7 +471,7 @@ Problem Link:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-2/solutions/array-string.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 

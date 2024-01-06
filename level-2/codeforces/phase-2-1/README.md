@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/codeforces.png"></img>
+<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
 
-## [Codeforces](https://codeforces.com/) OJ - Phase 2.1 `120 problems` `80 hrs`
+## Codeforces OJ - Phase 2.1 `120 problems` `80 hrs`
 
 ### Table of Content
 

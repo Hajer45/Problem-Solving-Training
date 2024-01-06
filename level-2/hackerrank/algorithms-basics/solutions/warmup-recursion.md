@@ -1,11 +1,11 @@
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
+<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 
 # HackerRank OJ - Algorithms Basics <br> Warmup and Recursion `20 problems`
 
 ## Simple Array Sum
 Problem Link: https://hackerrank.com/challenges/simple-array-sum/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -16,7 +16,7 @@ def simpleArraySum(arr):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -32,7 +32,7 @@ int simpleArraySum(vector<int> &arr) {
 ## Compare the Triplets
 Problem Link: https://hackerrank.com/challenges/compare-the-triplets/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -47,7 +47,7 @@ def compareTriplets(a, b):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -68,7 +68,7 @@ vector<int> compareTriplets(vector<int> &a, vector<int> &b) {
 ## A Very Big Sum
 Problem Link: https://hackerrank.com/challenges/a-very-big-sum/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -79,7 +79,7 @@ def aVeryBigSum(arr):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -95,7 +95,7 @@ long aVeryBigSum(vector<long> arr) {
 ## Diagonal Difference
 Problem Link: https://hackerrank.com/challenges/diagonal-difference/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -110,7 +110,7 @@ def diagonalDifference(arr):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -131,7 +131,7 @@ int diagonalDifference(vector<vector<int>> arr) {
 ## Plus Minus
 Problem Link: https://hackerrank.com/challenges/plus-minus/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -150,7 +150,7 @@ def plusMinus(arr):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -175,7 +175,7 @@ void plusMinus(vector<int> &arr) {
 ## Staircase
 Problem Link: https://hackerrank.com/challenges/staircase/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -187,7 +187,7 @@ def staircase(n):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -204,7 +204,7 @@ void staircase(int n) {
 ## Mini-Max Sum
 Problem Link: https://hackerrank.com/challenges/mini-max-sum/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -218,7 +218,7 @@ def miniMaxSum(arr):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -239,7 +239,7 @@ void miniMaxSum(vector<int> &arr) {
 ## Birthday Cake Candles
 Problem Link: https://hackerrank.com/challenges/birthday-cake-candles/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -250,7 +250,7 @@ def birthdayCakeCandles(candles):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -268,7 +268,7 @@ int birthdayCakeCandles(vector<int> &candles) {
 ## Time Conversion
 Problem Link: https://hackerrank.com/challenges/time-conversion/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -283,7 +283,7 @@ def timeConversion(s):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -303,7 +303,7 @@ string timeConversion(string s) {
 ## The Power Sum
 Problem Link: https://hackerrank.com/challenges/the-power-sum/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -325,7 +325,7 @@ def powerSum(X, N):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -353,7 +353,7 @@ int powerSum(int X, int N) {
 ## Crossword Puzzle
 Problem Link: https://hackerrank.com/challenges/crossword-puzzle/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -437,7 +437,7 @@ def crosswordPuzzle(crossword, words):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -580,7 +580,7 @@ vector<string> crosswordPuzzle(vector<string> crossword, string words) {
 ## Recursive Digit Sum
 Problem Link: https://hackerrank.com/challenges/recursive-digit-sum/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -598,7 +598,7 @@ def superDigit(n, k):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -632,7 +632,7 @@ int superDigit(string n, int k) {
 ## Simplified Chess Engine
 Problem Link: https://hackerrank.com/challenges/simplified-chess-engine/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -642,7 +642,7 @@ Problem Link: https://hackerrank.com/challenges/simplified-chess-engine/problem
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -656,7 +656,7 @@ Problem Link: https://hackerrank.com/challenges/simplified-chess-engine/problem
 ## Password Cracker
 Problem Link: https://hackerrank.com/challenges/password-cracker/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -666,7 +666,7 @@ Problem Link: https://hackerrank.com/challenges/password-cracker/problem
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -680,7 +680,7 @@ Problem Link: https://hackerrank.com/challenges/password-cracker/problem
 ## Stone Division, Revisited
 Problem Link: https://hackerrank.com/challenges/stone-division-2/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -690,7 +690,7 @@ Problem Link: https://hackerrank.com/challenges/stone-division-2/problem
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -704,7 +704,7 @@ Problem Link: https://hackerrank.com/challenges/stone-division-2/problem
 ## Arithmetic Expressions
 Problem Link: https://hackerrank.com/challenges/arithmetic-expressions/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -714,7 +714,7 @@ Problem Link: https://hackerrank.com/challenges/arithmetic-expressions/problem
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -728,7 +728,7 @@ Problem Link: https://hackerrank.com/challenges/arithmetic-expressions/problem
 ## K Factorization
 Problem Link: https://hackerrank.com/challenges/k-factorization/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -757,7 +757,7 @@ def kFactorization(n, A):
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -798,7 +798,7 @@ vector<int> kFactorization(int n, vector<int> &A) {
 ## Bowling Pins
 Problem Link: https://hackerrank.com/challenges/bowling-pins/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -808,7 +808,7 @@ Problem Link: https://hackerrank.com/challenges/bowling-pins/problem
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -822,7 +822,7 @@ Problem Link: https://hackerrank.com/challenges/bowling-pins/problem
 ## Simplified Chess Engine II
 Problem Link: https://hackerrank.com/challenges/simplified-chess-engine-ii/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -832,7 +832,7 @@ Problem Link: https://hackerrank.com/challenges/simplified-chess-engine-ii/probl
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -846,7 +846,7 @@ Problem Link: https://hackerrank.com/challenges/simplified-chess-engine-ii/probl
 ## Repetitive K-Sums
 Problem Link: https://hackerrank.com/challenges/repeat-k-sums/problem
 
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -856,7 +856,7 @@ Problem Link: https://hackerrank.com/challenges/repeat-k-sums/problem
 
 </details>
 <br>
-<a href="/level-2/hackerrank/algorithms-basics/solutions/warmup-recursion.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 

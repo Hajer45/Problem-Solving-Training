@@ -1,8 +1,8 @@
-<a href="/level-2/leetcode/interviews-questions-1/README.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 
-# [LeetCode](https://leetcode.com/) OJ - Interviews Questions 1 <br> `125 problems` `80 hrs`
-<a href="/level-2/leetcode/interviews-questions-1/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
-<a href="/level-2/leetcode/interviews-questions-1/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+# LeetCode OJ - Interviews Questions 1 <br> `125 problems` `80 hrs`
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 ## Solved using
 <br>
 

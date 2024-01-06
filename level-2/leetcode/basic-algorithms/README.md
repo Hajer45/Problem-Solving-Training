@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/leetcode.png"></img>
+<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 
-## [LeetCode](https://leetcode.com/) OJ - Basic Algorithms `155 problems` `120 hrs`
+## LeetCode OJ - Basic Algorithms `155 problems` `120 hrs`
 
 ### Table of Content
 

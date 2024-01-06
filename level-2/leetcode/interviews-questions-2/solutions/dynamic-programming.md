@@ -1,14 +1,11 @@
-<a href="/level-2/leetcode/interviews-questions-2/solutions/dynam-programming.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 
 # LeetCode OJ - Interviews Questions 2 <br> Dynamic Programming `15 problems`
-
-
-
 
 ## number of longest increasing subsequence
 Problem Link: https://leetcode.com/problems/number-of-longest-increasing-subsequence
 
-<a href="/level-3/leetcode/interviews-questions-1/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -37,7 +34,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-3/leetcode/interviews-questions-1/solutions/medium-problems-I.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -75,7 +72,7 @@ public:
 ## maximum subarray
 Problem Link: https://leetcode.com/problems/maximum-subarray
 
-<a href="/level-3/leetcode/interviews-questions-1/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -93,7 +90,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-3/leetcode/interviews-questions-1/solutions/easy-problems.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 

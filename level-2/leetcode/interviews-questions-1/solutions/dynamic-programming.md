@@ -1,11 +1,11 @@
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 
 # LeetCode OJ - Interviews Questions 1 <br> Dynamic Programming `15 problems`
 
 ## climbing stairs
 Problem Link: https://leetcode.com/problems/climbing-stairs
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -21,7 +21,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -44,7 +44,7 @@ public:
 ## house robber
 Problem Link: https://leetcode.com/problems/house-robber
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -61,7 +61,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -86,7 +86,7 @@ public:
 ## word break
 Problem Link: https://leetcode.com/problems/word-break
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -104,7 +104,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -131,7 +131,7 @@ public:
 ## coin change
 Problem Link: https://leetcode.com/problems/coin-change
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -151,7 +151,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -180,7 +180,7 @@ public:
 ## longest increasing subsequence
 Problem Link: https://leetcode.com/problems/longest-increasing-subsequence
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -197,7 +197,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -223,7 +223,7 @@ public:
 ## longest palindromic substring
 Problem Link: https://leetcode.com/problems/longest-palindromic-substring
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -250,7 +250,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -288,7 +288,7 @@ public:
 ## maximum product subarray
 Problem Link: https://leetcode.com/problems/maximum-product-subarray
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -307,7 +307,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -335,7 +335,7 @@ public:
 ## unique paths
 Problem Link: https://leetcode.com/problems/unique-paths
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -353,7 +353,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -380,7 +380,7 @@ public:
 ## partition equal subset sum
 Problem Link: https://leetcode.com/problems/partition-equal-subset-sum
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -403,7 +403,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -434,7 +434,7 @@ public:
 ## range sum query immutable
 Problem Link: https://leetcode.com/problems/range-sum-query-immutable
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -452,7 +452,7 @@ class NumArray:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -478,7 +478,7 @@ public:
 ## counting bits
 Problem Link: https://leetcode.com/problems/counting-bits
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -498,7 +498,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -527,7 +527,7 @@ public:
 ## house robber ii
 Problem Link: https://leetcode.com/problems/house-robber-ii
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -549,7 +549,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -580,7 +580,7 @@ public:
 ## combination sum iv
 Problem Link: https://leetcode.com/problems/combination-sum-iv
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -598,7 +598,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -626,7 +626,7 @@ public:
 ## decode ways
 Problem Link: https://leetcode.com/problems/decode-ways
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -651,7 +651,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -685,7 +685,7 @@ public:
 ## palindromic substrings
 Problem Link: https://leetcode.com/problems/palindromic-substrings
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -709,7 +709,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/dynamic-programming.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 

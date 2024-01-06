@@ -1,4 +1,4 @@
-<a href="/level-2/hackerrank/data-structures/solutions/advanced-I.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
+<a href="/level-2/hackerrank/data-structures/solutions/advanced.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
 
 # HackerRank OJ - Data Structures <br> Advanced `20 problems`
 

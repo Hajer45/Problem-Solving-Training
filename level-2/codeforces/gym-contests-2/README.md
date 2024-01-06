@@ -1,6 +1,6 @@
-<img align="right" width="80" src="/logos/codeforces.png"></img>
+<picture><img align="right" width="80" src="/logos/codeforces.png"></img></picture>
 
-## [Codeforces](https://codeforces.com/) OJ - Gym Contests 2 `155 contests` `300 hrs`
+## Codeforces OJ - Gym Contests 2 `155 contests` `300 hrs`
 
 ### Table of Content
 

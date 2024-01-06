@@ -1,11 +1,11 @@
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 
 # LeetCode OJ - Interviews Questions 1 <br> Heap and Bit Manipulation `10 problems`
 
 ## find k pairs with smallest sums
 Problem Link: https://leetcode.com/problems/find-k-pairs-with-smallest-sums
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -34,7 +34,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -77,7 +77,7 @@ public:
 ## kth largest element in an array
 Problem Link: https://leetcode.com/problems/kth-largest-element-in-an-array
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -108,7 +108,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -149,7 +149,7 @@ public:
 ## find median from data stream
 Problem Link: https://leetcode.com/problems/find-median-from-data-stream
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -187,7 +187,7 @@ class MedianFinder:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -234,7 +234,7 @@ public:
 ## single number
 Problem Link: https://leetcode.com/problems/single-number
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -252,7 +252,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -278,7 +278,7 @@ public:
 ## top k frequent elements
 Problem Link: https://leetcode.com/problems/top-k-frequent-elements
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -302,7 +302,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -333,7 +333,7 @@ public:
 ## kth smallest element in a sorted matrix
 Problem Link: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -368,7 +368,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -415,7 +415,7 @@ public:
 ## Interval List Intersections
 Problem Link: https://leetcode.com/problems/interval-list-intersections
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -439,7 +439,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -471,7 +471,7 @@ public:
 ## non overlapping intervals
 Problem Link: https://leetcode.com/problems/non-overlapping-intervals
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -492,7 +492,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -523,7 +523,7 @@ public:
 ## meeting rooms ii
 Problem Link: https://leetcode.com/problems/meeting-rooms-ii
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -533,7 +533,7 @@ Problem Link: https://leetcode.com/problems/meeting-rooms-ii
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 
@@ -547,7 +547,7 @@ Problem Link: https://leetcode.com/problems/meeting-rooms-ii
 ## k closest points to origin
 Problem Link: https://leetcode.com/problems/k-closest-points-to-origin
 
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
 <details>
     <summary>Python Solution</summary>
 
@@ -569,7 +569,7 @@ class Solution:
 
 </details>
 <br>
-<a href="/level-2/leetcode/interviews-questions-1/solutions/heap-bit-manipulation.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 <details>
     <summary>CPP Solution</summary>
 

@@ -1,8 +1,8 @@
-<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
+<picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture></a>
 
-# [HackerRank](https://hackerrank.com/) OJ - Data Structures <br> `120 problems` `80 hrs`
-<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></a>
-<a href="/level-2/hackerrank/data-structures/README.md"><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></a>
+# HackerRank OJ - Data Structures <br> `120 problems` `80 hrs`
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/python.png"></img></picture>
+<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-logos/cpp.png"></img></picture>
 ## Solved using
 <br>
 
