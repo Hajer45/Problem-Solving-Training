@@ -11,7 +11,7 @@ Problem Solving Training for computer science students.
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
   * [Codeforces Online Judge Phases](#codeforces-oj-phases)
-  * [LeetCode Online Judge Phases](#topcoder-oj-phases)
+  * [LeetCode Online Judge Phases](#leetcode-oj-phases)
   * [Google Competitions Phases](#google-competitions-phases)
   * [UVA Online Judge Phases](#uva-oj-phases)
   * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
