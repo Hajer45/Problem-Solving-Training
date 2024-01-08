@@ -111,20 +111,12 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 <table>
     <tbody>
         <tr>
-<td align="center"><a href="/level-3/hackerearth/mathematics-strings-1">     <img width="95%" src="/logos/hackerearth-09.png"></img></a></td>
-<td align="center"><a href="/level-3/hackerearth/mathematics-strings-2">     <img width="95%" src="/logos/hackerearth-10.png"></img></a></td>
+<td align="center"><a href="/level-3/hackerearth/mathematics-strings">       <img width="95%" src="/logos/hackerearth-09.png"></img></a></td>
+<td align="center"><a href="/level-3/hackerearth/graph">                     <img width="95%" src="/logos/hackerearth-11.png"></img></a></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-3/hackerearth/graph-1">                   <img width="95%" src="/logos/hackerearth-11.png"></img></a></td>
-<td align="center"><a href="/level-3/hackerearth/graph-2">                   <img width="95%" src="/logos/hackerearth-12.png"></img></a></td>
-        </tr>
-        <tr>
-<td align="center"><a href="/level-3/hackerearth/dynamic-programming-1">     <img width="95%" src="/logos/hackerearth-13.png"></img></a></td>
-<td align="center"><a href="/level-3/hackerearth/dynamic-programming-2">     <img width="95%" src="/logos/hackerearth-14.png"></img></a></td>
-        </tr>
-        <tr>
-<td align="center"><a href="/level-3/hackerearth/advanced-data-structures-1"><img width="95%" src="/logos/hackerearth-15.png"></img></a></td>
-<td align="center"><a href="/level-3/hackerearth/advanced-data-structures-2"><img width="95%" src="/logos/hackerearth-16.png"></img></a></td>
+<td align="center"><a href="/level-3/hackerearth/dynamic-programming">       <img width="95%" src="/logos/hackerearth-13.png"></img></a></td>
+<td align="center"><a href="/level-3/hackerearth/advanced-data-structures">  <img width="95%" src="/logos/hackerearth-15.png"></img></a></td>
         </tr>
     </tbody>
 </table>

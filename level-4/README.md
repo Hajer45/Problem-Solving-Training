@@ -14,6 +14,7 @@ Problem Solving Training for computer science students.
   * [TopCoder Online Judge Phases](#topcoder-oj-phases)
   * [Google Competitions Phases](#google-competitions-phases)
   * [UVA Online Judge Phases](#uva-oj-phases)
+  * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
   * [Notes](#notes)
 
 <br><br><br><br>
@@ -54,6 +55,25 @@ coming soon ...
 ## `UVA OJ phases`
 
 coming soon ...
+
+<picture><img align="right" width="80" src="/logos/hackerearth.png"></img></picture>
+<br>
+
+## `HackerEarth OJ phases`
+
+<table>
+    <tbody>
+        <tr>
+<td align="center"><a href="/level-4/hackerearth/mathematics-strings">       <img width="95%" src="/logos/hackerearth-10.png"></img></a></td>
+<td align="center"><a href="/level-4/hackerearth/graph">                     <img width="95%" src="/logos/hackerearth-12.png"></img></a></td>
+        </tr>
+        <tr>
+<td align="center"><a href="/level-4/hackerearth/dynamic-programming">       <img width="95%" src="/logos/hackerearth-14.png"></img></a></td>
+<td align="center"><a href="/level-4/hackerearth/advanced-data-structures">  <img width="95%" src="/logos/hackerearth-16.png"></img></a></td>
+        </tr>
+    </tbody>
+</table>
+
 
 <br>
 
