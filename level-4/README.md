@@ -11,7 +11,7 @@ Problem Solving Training for computer science students.
 ## Table of Contents
   * [Prerequisite Knowledge](#prerequisite-knowledge)
   * [Codeforces Online Judge Phases](#codeforces-oj-phases)
-  * [TopCoder Online Judge Phases](#topcoder-oj-phases)
+  * [LeetCode Online Judge Phases](#topcoder-oj-phases)
   * [Google Competitions Phases](#google-competitions-phases)
   * [UVA Online Judge Phases](#uva-oj-phases)
   * [HackerEarth Online Judge Phases](#hackerearth-oj-phases)
@@ -35,10 +35,10 @@ coming soon ...
 
 coming soon ...
 
-<picture><img align="right" width="80" src="/logos/topcoder.png"></img></picture>
+<picture><img align="right" width="80" src="/logos/leetcode.png"></img></picture>
 <br>
 
-## `TopCoder OJ phases`
+## `LeetCode OJ phases`
 
 coming soon ...
 
