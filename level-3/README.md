@@ -24,7 +24,7 @@ Problem Solving Training for computer science students.
 
 This level simply consists of 26 phases, 4 phases on HackerRank Online Judge, 6 phases on LeetCode Online Judge, 2 phases on AtCoder Online Judge, 6 phases on Codeforces Online Judge, and the last 8 phases on HackerEarth Online Judge.
 
-## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/master/data-structures-and-algorithms/README.md)
+## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/data-structures-and-algorithms/README.md)
 The prerequisites for level 3 of this training are the advanced knowledge for Data Structures and Algorithms Analysis like ***(Disjoint Sets - Trie - Segment Tree - Binary Indexed Tree - Divide and Conquer - Graph Algorithms - Greedy Algorithms - Dynamic Programming - Mathematical Algorithms)***.
 
 <picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
