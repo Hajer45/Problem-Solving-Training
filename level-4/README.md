@@ -23,7 +23,7 @@ Problem Solving Training for computer science students.
 
 coming soon ...
 
-## `Prerequisite Knowledge`
+## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/Computer-Science-Trainings/blob/master/advanced-data-structures-and-algorithms/README.md)
 
 coming soon ...
 
