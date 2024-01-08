@@ -40,7 +40,18 @@ coming soon ...
 
 ## `LeetCode OJ phases`
 
-coming soon ...
+<table>
+    <tbody>
+        <tr>
+<td align="center"><a href="/level-4/leetcode/data-structures">              <img width="95%" src="/logos/leetcode-13.png"></img></a></td>
+<td align="center"><a href="/level-4/leetcode/algorithms">                   <img width="95%" src="/logos/leetcode-14.png"></img></a></td>
+        </tr>
+        <tr>
+<td align="center"><a href="/level-4/leetcode/mathematics-strings">          <img width="95%" src="/logos/leetcode-15.png"></img></a></td>
+<td align="center"><a href="/level-4/leetcode/dynamic-programming">          <img width="95%" src="/logos/leetcode-16.png"></img></a></td>
+        </tr>
+    </tbody>
+</table>
 
 <picture><img align="right" width="80" src="/logos/googlecompetitions.png"></img></picture>
 <br>
