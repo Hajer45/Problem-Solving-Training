@@ -89,8 +89,8 @@ The prerequisites for level 3 of this training are the advanced knowledge for Da
 <table>
     <tbody>
         <tr>
-<td align="center"><a href="/level-3/codeforces/phase-3-1">                  <img width="95%" src="/logos/codeforces-09.png"></img></a></td>
-<td align="center"><a href="/level-3/codeforces/phase-3-2">                  <img width="95%" src="/logos/codeforces-10.png"></img></a></td>
+<td align="center"><a href="/level-3/codeforces/div3-div4-contests">         <img width="95%" src="/logos/codeforces-09.png"></img></a></td>
+<td align="center"><a href="/level-3/codeforces/educational-contests">       <img width="95%" src="/logos/codeforces-10.png"></img></a></td>
         </tr>
         <tr>
 <td align="center"><a href="/level-3/codeforces/phase-3-1">                  <img width="95%" src="/logos/codeforces-11.png"></img></a></td>
