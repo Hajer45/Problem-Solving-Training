@@ -93,8 +93,8 @@ The prerequisites for level 2 of this training are the basic knowledge for Data 
 <td align="center"><a href="/level-2/codeforces/phase-2-4">                  <img width="95%" src="/logos/codeforces-08.png"></img></a></td>
         </tr>
         <tr>
-<td align="center"><a href="/level-2/codeforces/phase-2-3">                  <img width="95%" src="/logos/codeforces-09.png"></img></a></td>
-<td align="center"><a href="/level-2/codeforces/phase-2-4">                  <img width="95%" src="/logos/codeforces-10.png"></img></a></td>
+<td align="center"><a href="/level-2/codeforces/div3-div4-contests">         <img width="95%" src="/logos/codeforces-09.png"></img></a></td>
+<td align="center"><a href="/level-2/codeforces/educational-contests">       <img width="95%" src="/logos/codeforces-10.png"></img></a></td>
         </tr>
     </tbody>
 </table>
