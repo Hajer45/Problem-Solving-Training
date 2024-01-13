@@ -23,7 +23,7 @@ Problem Solving Training for computer science students.
 
 This level simply consists of 16 phases, 4 phases on HackerRank Online Judge, 4 phases on AtCoder Online Judge, 4 phases on Codeforces Online Judge, 4 phases on HackerEarth Online Judge.
 
-## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/programming-languages-and-object-oriented/README.md)
+## [`Prerequisite Knowledge`](https://github.com/cs-MohamedAyman/computer-science-trainings/blob/master/cpp-python-programming-languages/README.md)
 The prerequisites for level 1 of this training are the basic knowledge for any programming language like ***(Variable Types - Basic Operators - Conditions - Loops - Functions - Lists/Arrays - Strings)***.
 
 <picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
